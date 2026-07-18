@@ -11,8 +11,8 @@
 /* ================= Configuration ================= */
 #define WIFI_SSID "AK"
 #define WIFI_PASSWORD "12345678"
-#define API_KEY "AIzaSyBkro85zW7t-STblm64H21dgNGzp5XGaTs"
-#define DATABASE_URL "https://iotbasedhealthmonitoring-81395-default-rtdb.firebaseio.com/"
+#define API_KEY "AIzaSyBkro85zW7t-STblm64H21dgNGzp5X"
+#define DATABASE_URL "https://iotbasedhealthmonit-81395-default-rtdb.firebaseio.com/"
 
 #define LED_PIN 2
 #define MODE_SWITCH_PIN 13  // Your Toggle Switch on D13
@@ -183,7 +183,7 @@ void runAutomaticMode() {
       for(int i=0; i<AVG_SIZE; i++) spo2Array[i] = 0;
     } 
     else {
-      heartRate = random(72, 85); 
+     
       float ratio = (float)redValue / (float)irValue;
       float currentSpO2 = (-45.060 * ratio * ratio) + (30.354 * ratio) + 94.845;
       if (currentSpO2 > 100) currentSpO2 = 100;
