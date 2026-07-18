@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Health Monitoring App</string>
+    <string name="led_off">LED OFF</string>
+    <string name="led_on">LED ON</string>
+    <string name="sensor_data">Sensor Data</string>
+    <string name="get_data">Get Data</string>
+    <string name="health_monitoring_system">HEALTH MONITORING SYSTEM</string>
+    <string name="led_status_off">LED Status: OFF</string>
+    <string name="heart_rate_bpm">Heart Rate: -- BPM</string>
+    <string name="location">Location: ----</string>
+    <string name="mode_manual">Mode: MANUAL</string>
+    <string name="spo_level">SpO₂ Level: -- %</string>
+    <string name="status_normal">Status: Normal</string>
+    <string name="firebase_checking">Firebase: Checking...</string>
+    <string name="real_time_patient_status">Real-time Patient Status</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="heart_logo">Heart Logo</string>
+    <string name="select_gender">Select Gender:</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="age">Age</string>
+    <string name="extra_details_e_g_allergies">Extra Details (e.g. Allergies)</string>
+
+</resources>

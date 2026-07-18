@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+<gradient
+    android:startColor="#0C4049"
+    android:endColor="#3B82F6"
+    android:centerColor="#1C2435"
+    android:centerX="@integer/material_motion_duration_short_2"
+    android:angle="45"/>
+    <!-- Violet border -->
+    <stroke
+        android:width="2dp"
+        android:color="#694E93"/>
+<corners android:radius="16dp"/>
+</shape>

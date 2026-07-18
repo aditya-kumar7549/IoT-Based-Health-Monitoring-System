@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "953659349671",
+    "firebase_url": "https://iotbasedhealthmonitoring-81395-default-rtdb.firebaseio.com",
+    "project_id": "iotbasedhealthmonitoring-81395",
+    "storage_bucket": "iotbasedhealthmonitoring-81395.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953659349671:android:fe55fe760d44a49a035982",
+        "android_client_info": {
+          "package_name": "com.example.healthmonitoringapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkro85zW7t-STblm64H21dgNGzp5XGaTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
